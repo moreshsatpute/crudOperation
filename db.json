@@ -1,0 +1,36 @@
+{
+  "employee": [
+    {
+      "id": "3",
+      "name": "Robert",
+      "email": "robert@in.com",
+      "phone": "908908767"
+    },
+    {
+      "id": "4",
+      "name": "Kane Williamson",
+      "email": "kw@in.com",
+      "phone": "908908767"
+    },
+    {
+      "id": "c843",
+      "name": "krishan",
+      "email": "fghjkl@ghkl",
+      "phone": "71adfb"
+    },
+    {
+      "id": "f77d",
+      "name": "Moresh",
+      "email": "moresghj@gmail.com",
+      "phone": "123",
+      "active": true
+    },
+    {
+      "id": "ab94",
+      "name": "moresh",
+      "email": "asdfghjkl",
+      "phone": "sdfghjkl",
+      "active": true
+    }
+  ]
+}
